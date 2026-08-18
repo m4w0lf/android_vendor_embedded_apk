@@ -31,7 +31,7 @@ android_app_import {
     default_dev_cert: true,
     arch: {
         arm64: {
-            apk: "Pastiera.apk",
+            apk: "Pastiera-0.85.apk",
         },
     },
 }
